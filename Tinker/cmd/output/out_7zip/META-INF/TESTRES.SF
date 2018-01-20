@@ -1,0 +1,74 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: a76WHiJ7kphL2b1uK9qZdFq1qKA=
+SHA1-Digest-Manifest: KDCY8cumwPe+iD7p62jtgbrub6I=
+Created-By: 1.8.0_151 (Oracle Corporation)
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: EWdVB79lY6Ph37AOCJsiKnr8J3A=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: vu9n66CWTyLoNpGtfhJTYXuCDEM=
+
+Name: res/layout-v17/notification_template_part_time.xml
+SHA1-Digest: ENSvOugXefyG3HvJV7tmU3p8a4E=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: vtOlAyItzRa1rSGt9y4FkhGzSns=
+
+Name: res/layout-v17/notification_template_lines.xml
+SHA1-Digest: FVaU2/4/ILVeHnrOO1sn6jry6k8=
+
+Name: res/layout-v17/activity_main.xml
+SHA1-Digest: 9g9GAOt1FiVk7CtA7taORGXR90c=
+
+Name: assets/dex_meta.txt
+SHA1-Digest: KEYMAfzmk22b+SEvu+SfH/a+MYo=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: jY7e7R7rCSQIznVSQSu5G9kzjuU=
+
+Name: assets/res_meta.txt
+SHA1-Digest: Yv547iMbDl3yBhtK8+7rKbPFnRg=
+
+Name: test.dex
+SHA1-Digest: 9jlJZZ+dKgQJh75auwJdN+fX1hg=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: wCXdpLfyXvGgOOkO11Bllnsgmyg=
+
+Name: assets/package_meta.txt
+SHA1-Digest: hHVK8SU4FW+nOJE167uApocQQ88=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: DWrWDAUDcIscxn+rkUawNnpCp70=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: Kht6EcUK4zL4j1c6sIPPF9G44B8=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: uY5JoArtfIdjvDHaEgWTDZiqhMQ=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: efUvMezIIiW4nY1TR5FntNWXT/U=
+
+Name: resources.arsc
+SHA1-Digest: /qtlnyrz2tveSBkBIt7G4fYww0M=
+
+Name: assets/only_use_to_test_tinker_resource.txt
+SHA1-Digest: 4LmW7LVvS3uEBefUZ25tbHXKme0=
+
+Name: res/layout/notification_template_lines.xml
+SHA1-Digest: Pw5MayFDi3Ywo0Y7HlukpLLc9pc=
+
+Name: classes.dex
+SHA1-Digest: 9DeBC75yFTo59oynZsLsDVshq5E=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: BFK2uncHHDtAbdvcIyliG/IZySQ=
+
+Name: res/layout-v17/notification_template_part_chronometer.xml
+SHA1-Digest: guqLOjbG1SK4kn0s6q4ewztlpaE=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: gHICrUnXNfwEXVLMdmlba/CEVJY=
+

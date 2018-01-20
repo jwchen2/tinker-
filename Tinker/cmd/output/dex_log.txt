@@ -1,0 +1,2 @@
+Start diff between [old/classes.dex] as old and [new/classes.dex] as new:
+classes.dex, oldSize=751536, newSize=751536, diffSize=902

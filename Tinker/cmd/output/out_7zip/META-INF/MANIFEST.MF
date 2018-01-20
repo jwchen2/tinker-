@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_151 (Oracle Corporation)
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: wbMWRqzflJUmHuVPmM+cPuqUSmk=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: hIZuXNxAQpzbGgR0MFcUs+FwkUc=
+
+Name: res/layout-v17/notification_template_part_time.xml
+SHA1-Digest: cViKRuJ92kwqeOz0rnmcW3IV3DY=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: TpMVzGP/Ez5iheVhAKVmQkJM9+4=
+
+Name: res/layout-v17/notification_template_lines.xml
+SHA1-Digest: bezMVF4fkwMCw1vdfg5CD7QjFYs=
+
+Name: res/layout-v17/activity_main.xml
+SHA1-Digest: NMiETm6fMhmSf30jcPJOwM9oCSU=
+
+Name: assets/dex_meta.txt
+SHA1-Digest: KdyeDUqr/F/CJyjEEgUBD6lNa9Q=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: +vFhSSa/QsyQzpBgC+8ttTNn/h8=
+
+Name: assets/res_meta.txt
+SHA1-Digest: +W1VwU3MUYMlIbhLuW/0FKNA9S4=
+
+Name: test.dex
+SHA1-Digest: JQ6I/qo62WRfO8A5LZy1vaQmpYE=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: R1iFFuRvryJGuFuW+L+hTIPe5yw=
+
+Name: assets/package_meta.txt
+SHA1-Digest: R+bD5Biv4/8SEbjS/3I2NmDOG6U=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: BCVpTQYFTxv1nGO1rFcChimR4TY=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: mDc1ASD5uPoaGLr4SLnlz4yhHI8=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: fPp+mBWv0+u385Ouv5DFAm4jOBo=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: rz/iHE1AWrxjqHJw0AMJ//Dqdwg=
+
+Name: resources.arsc
+SHA1-Digest: gQYqWzoka53s2bNasIk8wN46M28=
+
+Name: assets/only_use_to_test_tinker_resource.txt
+SHA1-Digest: 0hDOMk1uWmkEPB3FP6r29AqdwR4=
+
+Name: res/layout/notification_template_lines.xml
+SHA1-Digest: 6j22DjtI6tF9ZMC9swWjS9iY2+A=
+
+Name: classes.dex
+SHA1-Digest: DnUMZLz5TWXa8xSRFprL5PfhWbs=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: db0GBBJ6UacasasRXdXwF5E2pFs=
+
+Name: res/layout-v17/notification_template_part_chronometer.xml
+SHA1-Digest: W09ylKKNITaihc05P7VYDop7ozM=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: z4H3XaEexk4NTBf0sLQhoFofA6g=
+

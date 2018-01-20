@@ -1,0 +1,26 @@
+resources_out.zip,2617216591,9c8a0512f9ddba3f404cbe33be6c7493
+pattern:3
+resources.arsc
+res/*
+assets/*
+large modify:1
+resources.arsc,9c8a0512f9ddba3f404cbe33be6c7493,273893970
+modify:16
+res/layout/activity_main.xml
+res/layout/notification_media_action.xml
+res/layout/notification_media_cancel_action.xml
+res/layout/notification_template_big_media.xml
+res/layout/notification_template_big_media_narrow.xml
+res/layout/notification_template_lines.xml
+res/layout/notification_template_media.xml
+res/layout/notification_template_part_chronometer.xml
+res/layout/notification_template_part_time.xml
+res/layout-v17/activity_main.xml
+res/layout-v17/notification_template_big_media.xml
+res/layout-v17/notification_template_big_media_narrow.xml
+res/layout-v17/notification_template_lines.xml
+res/layout-v17/notification_template_media.xml
+res/layout-v17/notification_template_part_chronometer.xml
+res/layout-v17/notification_template_part_time.xml
+add:1
+assets/only_use_to_test_tinker_resource.txt
